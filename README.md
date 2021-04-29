@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meermustan.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on best companey.
+- 💞️ I’m looking to collaborate with best companey that's need my any help.
 - 📫 You can be able to reach me through my Instagram that is "meer.mustan".
 
 <!---
