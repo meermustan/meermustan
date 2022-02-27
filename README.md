@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meermustan.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate with best companey that's need my any help.
+- 👀 I’m interested in Full-Stack Website Development.
+- 🌱 I’m currently learning gsap.
+- 💞️ I’m looking to collaborate with any companey that's appriciate my skills.
 - 📫 You can be able to reach me through my Instagram that is "meer.mustan".
 
 <!---
