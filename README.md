@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate with any company that's appreciate my skills.
 - 📫 You can reach me through my instagram handle "meer.mustan"
 
+![](https://komarev.com/ghpvc/?username=meermustan)
+
 <!---
 meermustan/meermustan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
