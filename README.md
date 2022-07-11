@@ -29,7 +29,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 <h2>Latest Tweets</h2>
-<p><a href="https://twitter.com/meermustan"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=meermustan&amp;layout=wide" alt="github-readme-twitter"></a></p>
+<p><a href="https://twitter.com/meer_mustan"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=meer_mustan&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 <h2> 📊 GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=meermustan&amp;show_icons=true" alt="GitHub Stats"></p>
