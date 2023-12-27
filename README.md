@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack Website Development.
 - 🌱 I’m currently learning gsap.
 - 💞️ I’m looking to collaborate with any company that's appreciate my skills.
-- 📫 You can reach me through my instagram handle "meer.mustan"
+- 📫 You can reach me through my website www.meermustan.com
 
 ### Eperties In
 ![](https://komarev.com/ghpvc/?username=meermustan)
